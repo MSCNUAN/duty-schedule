@@ -1,7 +1,7 @@
 # 居委会排班表 · 正式飞书版 V2.6.0
 
 <p align="center">
-  <img src="assets/duty-schedule-feature-overview.png" alt="居委会排班表功能总览" width="100%">
+  <img src="assets/首页总览.png" alt="居委会排班表功能总览" width="100%">
 </p>
 
 
